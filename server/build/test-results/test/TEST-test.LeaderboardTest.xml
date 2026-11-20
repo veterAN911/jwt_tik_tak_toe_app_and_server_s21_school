@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.LeaderboardTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-11-19T23:33:13.857Z" hostname="MacBook-Air-Anatolij.local" time="0.969">
+  <properties/>
+  <testcase name="testLeaderboardFlow" classname="test.LeaderboardTest" time="0.777"/>
+  <testcase name="testBotIsNotInLeaderboard" classname="test.LeaderboardTest" time="0.19"/>
+  <system-out><![CDATA[
+=== ТЕСТ ЛИДЕРБОРДА (WEB SOCKET) ===
+✔ Лидерборд работает
+✔ Бот исключён из лидерборда
+]]></system-out>
+  <system-err><![CDATA[SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+]]></system-err>
+</testsuite>

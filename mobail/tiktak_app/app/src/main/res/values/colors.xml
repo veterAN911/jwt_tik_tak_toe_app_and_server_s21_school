@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="result_win">#FF2E7D32</color>
+    <color name="result_draw">#FF757575</color>
+    <color name="result_loss">#FFC62828</color>
+</resources>
